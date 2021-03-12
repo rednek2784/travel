@@ -1,0 +1,85 @@
+*{
+	
+	box-sizing:border-box;
+	
+}
+
+.logo{
+	
+	
+}
+
+
+.cname{
+	background-color:#3271e7;
+	color:#080808;
+	height:150px;
+	text-align:center;
+	padding-top:60px;
+	font-size:40px;
+	font-weight:bold;
+}
+
+
+.menu{
+	
+	margin-top:5px;
+	height:50px;
+	text-align:center;
+	padding-top:15px;
+	background-color:#a60059;
+}
+
+
+.menu a{
+	
+	/*color:white; */
+	color:#F0F0F0;
+	text-decoration:none;
+	display:block;
+	font-size:20px;
+	font-weight:bold;
+	
+}
+
+
+
+.banner{
+	
+	margin-top:5px;
+	
+}
+
+.service{
+	text-align:justify;
+	
+}
+
+.service h3{
+	
+	text-align:center;
+	
+}
+
+.footer{
+	
+	margin-top:5px;
+	/*background-color:#404242;*/
+	background-color:#140f01;
+	text-align:center;
+	height:200px;
+	padding-top:15px;
+	color:white;
+	font-size:25px;
+	font-weight:bold;
+	
+}
+
+
+
+.form {
+	color:red;
+	background-color:black;
+	
+}
+	
